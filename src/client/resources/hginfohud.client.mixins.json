@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
+	"package": "com.humangamer.hginfohud.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"InGameHudMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
